@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\79f62f214a0a251833eae7c412bd1ee0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\3fec2b14b804d30726b02a9e9ae2c0f0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\778d9d73e1838c1909b169b5e6ceaef8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\a2ae56fec52ee8c16d75fe76585effce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\c3d3a286125f12d8c6763d3ff0bce689\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\a2aa7889153060cec0802400645a424f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\e32dd0213806f3a8f709f9124fa39c72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\51e90b300e3cfd1fc5feed92b338b9b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\5e651c84c0232d1ab80ba9089d91d454\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\69cc900e39debd44251bcc9cf0b089b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\8c1897313345fd06240369ec18711971\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\475d2c094d259209bef49a2d3c4e4ded\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\dd31b24e819e7ab7a8de99639e24130a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\b05cf0bd4ed4bf075c66550aed9312fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\ef0c8d2bf1b413a99493e040cdea57d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\c2623eec428bf92c4aecf96e55d41a81\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\4448365d4330fcbb419528f0d43eba25\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\674e0625e79ca5f8125e0cf67341fbb6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\74f784161dca23c00257872823a44424\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\c1ffc2cfbaff9f5f0c129b3a38d004a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\eff42074bb4cdf2e0be3f9584dd210fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\f00353509ec8660b4c423d8de94decb4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\aa46740773a4d59831be111ce496349f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\865b307b25d3250c84b304a1a6596125\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\9e24a2d5348b52c9620253631856eb6e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\d45d52afa2a38789fb6f8f37cbc946d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\6ca201f15392820c92e333112dff9264\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:5:22-66
+uses-permission#android.permission.CALL_VIEW
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:9:5-46:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\3fec2b14b804d30726b02a9e9ae2c0f0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\3fec2b14b804d30726b02a9e9ae2c0f0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\c2623eec428bf92c4aecf96e55d41a81\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\c2623eec428bf92c4aecf96e55d41a81\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\4448365d4330fcbb419528f0d43eba25\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\4448365d4330fcbb419528f0d43eba25\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\c2623eec428bf92c4aecf96e55d41a81\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.lucas.vieira.gerenciadorhotel.tela.MenuActivity
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:label
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.lucas.vieira.gerenciadorhotel.tela.ListaHotelActivity
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:22:9-25:11
+	android:label
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:24:13-42
+	android:name
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:23:13-47
+activity#com.lucas.vieira.gerenciadorhotel.tela.FormularioHotelActivity
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:26:9-29:11
+	android:label
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:28:13-42
+	android:name
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:27:13-52
+activity#com.lucas.vieira.gerenciadorhotel.tela.ListaQuartoActivity
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:30:9-33:15
+	android:label
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:31:13-48
+activity#com.lucas.vieira.gerenciadorhotel.tela.FormularioQuartoActivity
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:34:9-37:15
+	android:label
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:36:13-43
+	android:name
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:35:13-53
+activity#com.lucas.vieira.gerenciadorhotel.tela.ListaFuncionarioActivity
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:38:9-41:15
+	android:label
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:40:13-41
+	android:name
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:39:13-53
+activity#com.lucas.vieira.gerenciadorhotel.tela.FormularioFuncionarioActivity
+ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:42:9-45:15
+	android:label
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:44:13-41
+	android:name
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml:43:13-58
+uses-sdk
+INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\79f62f214a0a251833eae7c412bd1ee0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\79f62f214a0a251833eae7c412bd1ee0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\3fec2b14b804d30726b02a9e9ae2c0f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\3fec2b14b804d30726b02a9e9ae2c0f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\778d9d73e1838c1909b169b5e6ceaef8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\778d9d73e1838c1909b169b5e6ceaef8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\a2ae56fec52ee8c16d75fe76585effce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\a2ae56fec52ee8c16d75fe76585effce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\c3d3a286125f12d8c6763d3ff0bce689\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\c3d3a286125f12d8c6763d3ff0bce689\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\a2aa7889153060cec0802400645a424f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\a2aa7889153060cec0802400645a424f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\e32dd0213806f3a8f709f9124fa39c72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\e32dd0213806f3a8f709f9124fa39c72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\51e90b300e3cfd1fc5feed92b338b9b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\51e90b300e3cfd1fc5feed92b338b9b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\5e651c84c0232d1ab80ba9089d91d454\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\5e651c84c0232d1ab80ba9089d91d454\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\69cc900e39debd44251bcc9cf0b089b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\69cc900e39debd44251bcc9cf0b089b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\8c1897313345fd06240369ec18711971\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\8c1897313345fd06240369ec18711971\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\475d2c094d259209bef49a2d3c4e4ded\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\475d2c094d259209bef49a2d3c4e4ded\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\dd31b24e819e7ab7a8de99639e24130a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\dd31b24e819e7ab7a8de99639e24130a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\b05cf0bd4ed4bf075c66550aed9312fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\b05cf0bd4ed4bf075c66550aed9312fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\ef0c8d2bf1b413a99493e040cdea57d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\ef0c8d2bf1b413a99493e040cdea57d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\c2623eec428bf92c4aecf96e55d41a81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\c2623eec428bf92c4aecf96e55d41a81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\4448365d4330fcbb419528f0d43eba25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\4448365d4330fcbb419528f0d43eba25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\674e0625e79ca5f8125e0cf67341fbb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\674e0625e79ca5f8125e0cf67341fbb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\74f784161dca23c00257872823a44424\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\74f784161dca23c00257872823a44424\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\c1ffc2cfbaff9f5f0c129b3a38d004a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\c1ffc2cfbaff9f5f0c129b3a38d004a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\eff42074bb4cdf2e0be3f9584dd210fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\eff42074bb4cdf2e0be3f9584dd210fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\f00353509ec8660b4c423d8de94decb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\f00353509ec8660b4c423d8de94decb4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\aa46740773a4d59831be111ce496349f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\aa46740773a4d59831be111ce496349f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\865b307b25d3250c84b304a1a6596125\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\865b307b25d3250c84b304a1a6596125\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\9e24a2d5348b52c9620253631856eb6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\9e24a2d5348b52c9620253631856eb6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\d45d52afa2a38789fb6f8f37cbc946d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\d45d52afa2a38789fb6f8f37cbc946d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\6ca201f15392820c92e333112dff9264\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Lucas Vieira\.gradle\caches\transforms-2\files-2.1\6ca201f15392820c92e333112dff9264\AndroidManifest.xml:20:5-44
+INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android_Projetos\GerenciadorHotel\app\src\main\AndroidManifest.xml
