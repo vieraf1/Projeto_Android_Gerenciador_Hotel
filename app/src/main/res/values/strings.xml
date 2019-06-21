@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FATEC HOTEL</string>
+    <string name="app_menu">MENU</string>
+    <string name="quarto">QUARTOS</string>
+    <string name="func">FUNCIONÁRIOS</string>
+    <string name="bthotel">HÓTEIS</string>
+    <string name="btquarto">QUARTOS</string>
+    <string name="btfunc">FUNCIONÁRIOS</string>
+    <string name="hotel">HÓTEIS</string>
+</resources>
